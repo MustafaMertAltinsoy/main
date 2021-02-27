@@ -1,2 +1,2 @@
 # main
-Main olan bu
+Main olan bu değil
